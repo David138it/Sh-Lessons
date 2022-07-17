@@ -1,0 +1,68 @@
+    total 65024
+    -rw-rw-r--   1 s s        0 Nov 18 20:13 1.txt
+    -rw-rw-r--   1 s s        0 Nov 18 20:13 3.txt
+    drwxrwxr-x   2 s s     4096 Jan 19 04:35 bin
+    -rw-rw-r--   1 s s  1486776 Jan  4 22:35 debian-cd_info.tar.gz
+    drwxr-xr-x   2 s s     4096 Jul 15  2020 Desktop
+    -rw-rw-r--   1 s s    15970 Dec 22 04:17 dirlist-bin.txt
+    -rw-rw-r--   1 s s     4499 Dec 22 04:17 dirlist-sbin.txt
+    -rw-rw-r--   1 s s      595 Dec  4 20:56 dirlist.txt
+    -rw-rw-r--   1 s s    15970 Dec 22 04:17 dirlist-usr-bin.txt
+    -rw-rw-r--   1 s s     4499 Dec 22 04:17 dirlist-usr-sbin.txt
+    -rw-rw-r--   1 s s      277 Dec 28 04:12 distros-bydate.txt
+    -rw-rw-r--   1 s s      277 Dec 28 03:45 distros.txt
+    drwxr-xr-x   3 s s     4096 Nov  9 19:44 Documents
+    drwxr-xr-x   2 s s     4096 Jul 15  2020 Downloads
+    -rw-rw-r--   1 s s       12 Nov  4 18:43 eat_more.txt
+    drwxrwxr-x   2 s s     4096 Dec 16 06:10 fedora-devel
+    -rw-rw-r--   1 s s        8 Dec 28 04:23 file1.txt
+    -rw-rw-r--   1 s s        8 Dec 28 04:23 file2.txt
+    -rw-rw-r--   1 s s    17822 Dec 16 05:50 file-A.zip
+    -rw-rw-r--   1 s s        0 Jan  4 21:58 filename
+    -rwxrwxr-x   1 s s    17128 Jul 29 20:51 firstOpenGlApp
+    -rw-rw-r--   1 s s      554 Nov 18 20:12 floder
+    drwxrwxr-x   2 s s     4096 Nov 18 20:13 folder
+    -rw-rw-r--   1 s s   370688 Nov 18 20:14 folder.iso
+    drwxrwxr-x   3 s s     4096 Dec 16 05:58 foo
+    -rw-------   1 s s        0 Nov  9 19:15 foo1.txt
+    -rw-rw-r--   1 s s       74 Jan 15 23:44 foo.bc
+    -rw-rw-r--   1 s s      131 Jan  4 20:53 foo.html
+    -rw-rw-r--   1 s s       12 Jan  4 21:44 fool.txt
+    -rw-rw-r--   1 s s       12 Dec 28 04:00 foo.txt
+    -rw-rw-r--   1 s s     2771 Dec 16 04:33 foo.txt.gz
+    -rw-rw-r--   1 s s     3874 Dec  4 20:27 index.php
+    -rw-rw-r--   1 s s       56 Nov  4 18:23 ls-error.txt
+    -rw-rw-r--   1 s s     2948 Dec 16 05:52 ls-etc.zip
+    -rw-rw-r--   1 s s   100189 Nov 11 20:09 ls-output.txt
+    -rw-rw-r--   1 s s    15929 Nov  4 19:14 ls.txt
+    -rw-rw-r--   1 s s      554 Oct 28 21:08 main.cpp
+    drwxr-xr-x   2 s s     4096 Jul 15  2020 Music
+    -rw-rw-r--   1 s s        0 Jan  4 21:58 myfile1
+    -rw-rw-r--   1 s s        0 Nov 11 20:08 new.txt
+    -rw-rw-r--   1 s s        0 Jan 20 03:43 output.txt
+    -rw-rw-r--   1 s s      299 Dec 23 05:55 phonelist.txt
+    drwxrwxr-x  38 s s     4096 Nov  4 19:43 Pics
+    drwxr-xr-x   2 s s     4096 Jan  4 22:44 Pictures
+    drwx------ 102 s s     4096 Dec 16 04:49 playground
+    -rw-rw-r--   1 s s  1392640 Dec 16 04:57 playground2.tar
+    -rw-rw-r--   1 s s  1495040 Dec 16 05:27 playground.tar
+    -rw-rw-r--   1 s s      520 Dec 16 05:33 playground.tbz
+    -rw-rw-r--   1 s s      976 Dec 16 05:32 playground.tgz
+    -rw-rw-r--   1 s s   479572 Dec 16 05:42 playground.zip
+    drwxr-xr-x   2 s s     4096 Jul 15  2020 Public
+    -rw-rw-r--   1 s s      393 Dec  4 20:17 readme.txt
+    drwxrwxr-x   2 s s     4096 Dec 16 05:37 remote-stuff
+    -rw-rw-r--   1 s s      183 Jan  4 19:57 script1.txt
+    drwxrwxr-x   3 s s     4096 Jan  3 20:55 src
+    -rw-rw-r--   1 s s     1636 Jan 13 04:29 sys_info_page.html
+    drwxrwxr-x   3 s s     4096 Jan  5 21:43 temp
+    drwxr-xr-x   2 s s     4096 Jul 15  2020 Templates
+    -rw-rw-r--   1 s s 60981248 Nov 18 20:06 ubuntu.iso
+    drwxr-xr-x   2 s s     4096 Jul 15  2020 Videos
+    Listing of foo.txt
+    a
+    b
+    c
+    a
+    b
+    c

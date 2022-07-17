@@ -1,0 +1,5 @@
+#!/bin/bash
+# simple_counter : демонстрация команды for в стиле языка C
+for (( i=0; i<5; i=i+1 )); do
+    echo $i
+done
